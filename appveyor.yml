@@ -1,0 +1,4 @@
+build: off
+
+install:
+  - choco install -y --no-progress --allow-empty-checksums bonjour
